@@ -3,3 +3,4 @@ tmp/app.db
 request.http
 db
 .env
+.env.test
